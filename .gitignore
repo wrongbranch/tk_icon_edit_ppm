@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# Python
+*.pyc
+*.pyd
+
+# Custom
+.ref/
